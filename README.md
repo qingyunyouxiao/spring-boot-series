@@ -1,4 +1,4 @@
-# Spring Boot 系列
+# Spring Boot 项目合集
 
 最开始学习 Spring Boot 做的几个项目。
 
